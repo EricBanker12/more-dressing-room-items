@@ -18,7 +18,6 @@ module.exports = function MoreDressingRoomItems(dispatch) {
 		templateId = false,
 		race = -1,
 		job = -1,
-		name = "",
 		inDressingRoom = false,
 		itemList = []
 	
@@ -48,13 +47,12 @@ module.exports = function MoreDressingRoomItems(dispatch) {
 	// Hooks
 	//----------
 	// Log-in
-	dispatch.hook('S_LOGIN',9, event => {
+	dispatch.hook('S_LOGIN',10, event => {
 		// get character and player ids
 		gameId = event.gameId
 		templateId = event.templateId
 		race = Math.floor((templateId - 10101) / 100)
 		job = (templateId - 10101) % 100
-		name = event.name
 		// check config and apply overwrite
 		overwrites = {}
 		// create items list for Dressing Room
