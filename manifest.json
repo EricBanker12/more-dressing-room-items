@@ -1,0 +1,18 @@
+{
+  "files": {
+    "index.js": "163b48c553aac467829cae215b389a4d7f76c0e8fafa458a38fb101a97bc5bea",
+    "LICENSE": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b",
+    "module.json": "778e080526c581358c94eb7f58f7fdb280dd42a252d07cd20c51c4e0abb98399",
+    "README.md": "cb1c416854ab2aed28f84ccbbde03a3f1bbcf505bb6b30fe4f99e9315b4d0e4c",
+    "data/items.json": "acaece778900a66d167de048c8b68a05f1bd98bd430a2cc96b9b5b1a3c523b99",
+    "data/mounts.json": "97039f339ef0e7d6eb0db7dd62a8402a58e7c8960612ba1278250ad4a622c04c"
+  },
+  "defs": {
+    "C_REQUEST_NONDB_ITEM_INFO": 1,
+    "S_CANCEL_CONTRACT": 1,
+    "S_LOGIN": 10,
+    "S_REPLY_NONDB_ITEM_INFO": 1,
+    "S_REQUEST_CONTRACT": 1,
+    "S_REQUEST_STYLE_SHOP_MARK_PRODUCTLIST": 1
+  }
+}

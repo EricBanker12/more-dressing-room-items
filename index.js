@@ -3,9 +3,8 @@ module.exports = function MoreDressingRoomItems(dispatch) {
 	//----------
 	// Constants
 	//----------
-	const path = require('path'),
-		items = require('./items.json'),
-		mounts = require('./mounts.json'),
+	const items = require('./data/items.json'),
+		mounts = require('./data/mounts.json'),
 		weapons = Object.keys(items.categories.style.weapon)
 	
 	// bug finding stuff
