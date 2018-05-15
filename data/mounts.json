@@ -310,14 +310,14 @@
 	"45478": {
 		"id": "45478",
 		"name": "Flying Skill: Steel Dragon",
-		"toolTip": "Use this manual to learn how to summon a Mighty Armored Dragon with a flying speed of 290 and a movement speed of 290. Additionally you learn the passive skill Ruler of Dragons. He restores 1% of your max MP and HP every second.<br><br><font color = '#c21919'>This item cannot be exchanged.</font><br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Armored Dragon with a flying speed of 290 and a movement speed of 290. Additionally you learn the passive skill Ruler of Dragons. It restores 1% of your max MP and HP every second.<br><br><font color = '#c21919'>This item cannot be exchanged.</font><br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200001,
 		"vehicleId": "232"
 	},
 	"45479": {
 		"id": "45479",
 		"name": "Flying Skill: Red Dragon",
-		"toolTip": "Use this manual to learn how to summon a Mighty Fire Dragon with a flying speed of 290 and a movement speed of 290. Additionally you learn the passive skill Ruler of Dragons. He restores 1% of your max MP and HP every second.<br><br><font color = '#c21919'>This item cannot be exchanged.</font><br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Fire Dragon with a flying speed of 290 and a movement speed of 290. Additionally you learn the passive skill Ruler of Dragons. It restores 1% of your max MP and HP every second.<br><br><font color = '#c21919'>This item cannot be exchanged.</font><br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200002,
 		"vehicleId": "233"
 	},
@@ -370,143 +370,227 @@
 		"skill": 1111523,
 		"vehicleId": "53"
 	},
+	"98601": {
+		"id": "98601",
+		"name": "Fortune Skill: Mighty Vakna",
+		"toolTip": "Use this manual to learn how to summon a Mighty Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Morphic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200121,
+		"vehicleId": "272"
+	},
+	"98602": {
+		"id": "98602",
+		"name": "Fortune Skill: Ancient Mighty Vakna",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skill Phantasmic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200122,
+		"vehicleId": "270"
+	},
+	"98603": {
+		"id": "98603",
+		"name": "Flying Skill: Vakna",
+		"toolTip": "Use this manual to learn how to summon a Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second.",
+		"skill": 12200125,
+		"vehicleId": "275"
+	},
+	"98604": {
+		"id": "98604",
+		"name": "Flying Skill: Ancient Vakna",
+		"toolTip": "Use this manual to learn how to summon an Ancient Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second.",
+		"skill": 12200126,
+		"vehicleId": "274"
+	},
+	"98609": {
+		"id": "98609",
+		"name": "Fortune Skill: Mighty Vakna (3 Days)",
+		"toolTip": "Use this manual to learn how to summon a Mighty Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Morphic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200123,
+		"vehicleId": "273"
+	},
+	"98610": {
+		"id": "98610",
+		"name": "Fortune Skill: Ancient Mighty Vakna (3 Days)",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Vakna with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skill Phantasmic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200124,
+		"vehicleId": "271"
+	},
+	"98625": {
+		"id": "98625",
+		"name": "Fortune Skill: Mighty Somno",
+		"toolTip": "Use this manual to learn how to summon a Mighty Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Morphic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200129,
+		"vehicleId": "264"
+	},
+	"98626": {
+		"id": "98626",
+		"name": "Fortune Skill: Ancient Mighty Somno",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skill Phantasmic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200130,
+		"vehicleId": "266"
+	},
+	"98627": {
+		"id": "98627",
+		"name": "Flying Skill: Somno",
+		"toolTip": "Use this manual to learn how to summon a Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second.",
+		"skill": 12200133,
+		"vehicleId": "269"
+	},
+	"98628": {
+		"id": "98628",
+		"name": "Flying Skill: Ancient Somno",
+		"toolTip": "Use this manual to learn how to summon an Ancient Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second.",
+		"skill": 12200134,
+		"vehicleId": "268"
+	},
+	"98633": {
+		"id": "98633",
+		"name": "Fortune Skill: Mighty Somno (3 Days)",
+		"toolTip": "Use this manual to learn how to summon a Mighty Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Morphic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200131,
+		"vehicleId": "265"
+	},
+	"98634": {
+		"id": "98634",
+		"name": "Fortune Skill: Ancient Mighty Somno (3 Days)",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Somno with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skill Phantasmic Talon and the skill Dreamreader.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
+		"skill": 12200132,
+		"vehicleId": "267"
+	},
 	"99102": {
 		"id": "99102",
 		"name": "Dragon Skill: Mighty Spirit Dragon",
-		"toolTip": "Use this manual to learn how to summon a Mighty Spirit Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Spirit Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200003,
 		"vehicleId": "234"
 	},
 	"99103": {
 		"id": "99103",
 		"name": "Dragon Skill: Mighty Diamond Dragon",
-		"toolTip": "Use this manual to learn how to summon a Mighty Diamond Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Diamond Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200004,
 		"vehicleId": "235"
 	},
 	"99104": {
 		"id": "99104",
 		"name": "Dragon Skill: Ancient Mighty Armored Dragon",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Armored Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Armored Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200005,
 		"vehicleId": "236"
 	},
 	"99105": {
 		"id": "99105",
 		"name": "Dragon Skill: Ancient Mighty Fire Dragon",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Fire Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Fire Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200006,
 		"vehicleId": "237"
 	},
 	"99106": {
 		"id": "99106",
 		"name": "Dragon Skill: Ancient Mighty Spirit Dragon",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Spirit Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Spirit Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200007,
 		"vehicleId": "238"
 	},
 	"99107": {
 		"id": "99107",
 		"name": "Dragon Skill: Ancient Mighty Diamond Dragon",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Diamond Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Diamond Dragon with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200008,
 		"vehicleId": "239"
 	},
 	"99283": {
 		"id": "99283",
 		"name": "Dragon Skill: Mighty Bone Wyvern",
-		"toolTip": "Use this manual to learn how to summon a Mighty Bone Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Bone Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200035,
 		"vehicleId": "244"
 	},
 	"99284": {
 		"id": "99284",
 		"name": "Dragon Skill: Mighty Abyssal Wyvern",
-		"toolTip": "Use this manual to learn how to summon a Mighty Abyssal Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Abyssal Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200043,
 		"vehicleId": "245"
 	},
 	"99285": {
 		"id": "99285",
 		"name": "Dragon Skill: Mighty Solarian Wyvern",
-		"toolTip": "Use this manual to learn how to summon a Mighty Solarian Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Solarian Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200051,
 		"vehicleId": "246"
 	},
 	"99286": {
 		"id": "99286",
 		"name": "Dragon Skill: Mighty Argent Wyvern",
-		"toolTip": "Use this manual to learn how to summon a Mighty Argent Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Argent Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200059,
 		"vehicleId": "247"
 	},
 	"99287": {
 		"id": "99287",
 		"name": "Dragon Skill: Mighty Igneous Wyvern",
-		"toolTip": "Use this manual to learn how to summon a Mighty Igneous Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. He restores 1% of your max MP and HP every second. You also learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>When the dragon skill is learned, Ruler of Dragons will overwrite any previously learned passive effects of the same rank such as Flaming Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Igneous Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 136</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skill Ruler of Dragons.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200067,
 		"vehicleId": "248"
 	},
 	"99288": {
 		"id": "99288",
 		"name": "Dragon Skill: Ancient Mighty Bone Wyvern",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Bone Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Bone Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200036,
 		"vehicleId": "249"
 	},
 	"99289": {
 		"id": "99289",
 		"name": "Dragon Skill: Ancient Mighty Abyssal Wyvern",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Abyssal Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Abyssal Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200044,
 		"vehicleId": "250"
 	},
 	"99290": {
 		"id": "99290",
 		"name": "Dragon Skill: Ancient Mighty Solarian Wyvern",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Solarian Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Solarian Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200052,
 		"vehicleId": "251"
 	},
 	"99291": {
 		"id": "99291",
 		"name": "Dragon Skill: Ancient Mighty Argent Wyvern",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Argent Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Argent Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200060,
 		"vehicleId": "252"
 	},
 	"99292": {
 		"id": "99292",
 		"name": "Dragon Skill: Ancient Mighty Igneous Wyvern",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Igneous Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. He restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. You also learn the passive skill Dragon Master.<br><br><font color = '#c21919'>When the dragon skill is learned, Dragon Master will overwrite any previously learned passive effects of the same rank such as Blazing Aura.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Igneous Wyvern with a <font color = '#f7a001'>flying speed of 290</font>, a <font color = '#f7a001'>movement speed of 290</font> and a <font color = '#f7a001'>general flight capability of 157</font>. It restores 2% of your max MP and HP every second. The dragon is surrounded by an aura that increases the movement speed of nearby group members' mounts by 10. Additionally you learn the passive skill Dragon Master.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200068,
 		"vehicleId": "253"
 	},
 	"99531": {
 		"id": "99531",
 		"name": "Phoenix Skill: Mighty Icewynder",
-		"toolTip": "Use this manual to learn how to summon a Mighty Icewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. You also learn the passive skills Flaming Aura and Phoenix Avatar.<br><br><font color = '#c21919'>When the phoenix skill is learned, Flaming Aura will overwrite any previously learned passive effects of the same rank such as Ruler of Dragons.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Icewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skills Flaming Aura and Phoenix Avatar.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200075,
 		"vehicleId": "258"
 	},
 	"99532": {
 		"id": "99532",
 		"name": "Phoenix Skill: Ancient Mighty Icewynder",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Icewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. You also learn the passive skills Blazing Aura and Phoenix Avatar.<br><br><font color = '#c21919'>When the phoenix skill is learned, Burning Aura will overwrite any previously learned passive effects of the same rank such as Dragon Master.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Icewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skills Blazing Aura and Phoenix Avatar.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200076,
 		"vehicleId": "260"
 	},
 	"99555": {
 		"id": "99555",
 		"name": "Phoenix Skill: Mighty Flamewynder",
-		"toolTip": "Use this manual to learn how to summon a Mighty Flamewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. You also learn the passive skills Flaming Aura and Phoenix Avatar.<br><br><font color = '#c21919'>When the phoenix skill is learned, Flaming Aura will overwrite any previously learned passive effects of the same rank such as Ruler of Dragons.</font>",
+		"toolTip": "Use this manual to learn how to summon a Mighty Flamewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 1% of your max MP and HP every second. Additionally you learn the passive skills Flaming Aura and Phoenix Avatar.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200083,
 		"vehicleId": "257"
 	},
 	"99556": {
 		"id": "99556",
 		"name": "Phoenix Skill: Ancient Mighty Flamewynder",
-		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Flamewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. You also learn the passive skills Blazing Aura and Phoenix Avatar.<br><br><font color = '#c21919'>When the phoenix skill is learned, Burning Aura will overwrite any previously learned passive effects of the same rank such as Dragon Master.</font>",
+		"toolTip": "Use this manual to learn how to summon an Ancient Mighty Flamewynder with a <font color = '#f7a001'>flying speed of 290</font> and a <font color = '#f7a001'>movement speed of 290</font>. It restores 2% of your max MP and HP every second. Additionally you learn the passive skills Blazing Aura and Phoenix Avatar.<br><br><font color = '#c21919'>You can only benefit from the skills of one </font><font color = '#f7a001'>ancient mighty</font><font color = '#c21919'> flying mount at any one time. Only the effects of the last mount you summon apply.</font>",
 		"skill": 12200084,
 		"vehicleId": "259"
 	},
@@ -1352,8 +1436,8 @@
 	},
 	"201531": {
 		"id": "201531",
-		"name": "Riding Skill: Elephant",
-		"toolTip": "Use this manual to learn how to summon an Elephant with a movement speed of 290.",
+		"name": "Riding Skill: Royal Elephant",
+		"toolTip": "Use this manual to learn how to summon a Royal Elephant with a movement speed of 290.",
 		"skill": 12200103,
 		"vehicleId": "263"
 	},
